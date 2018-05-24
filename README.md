@@ -1,1 +1,22 @@
 # QHA_step_clean
+
+`QHA_step.py` on:
+
+`/home/david/Trabajo/structures/Calcite_I_and_II/PBE-D3__SHRINK_8_8__bipolar_18_18__TOLINTEG_8_18__XXLGRID_TOLDEE_8/DEFINITIVE_ALL_QUANTITITES_FROM_SCELPHONO_OUTPUT/RAW_DATA_for_QHA/Calcite_II_SG_14/preparation/to_post/to_post_2/implementation_check_final_F_files/Application_to_all_calcite_II_SG_14/Result_of_QHA_step_script/Calcite_I_SG_167/9_volumes_CII_and_11_volumes_C_I/CI_SG_167_estable_scelphono_outputs_TOLDEE_10/RAW_DATA_for_QHA_TOLDEE_10/Separating_each_component`
+
+copied here with the name: `QHA_step_extended.py`
+
+The file `QHA_step_and_H_PTsinPV.py` on:
+
+`/home/david/Trabajo/structures/Calcite_I_and_II/PBE-D3__SHRINK_8_8__bipolar_18_18__TOLINTEG_8_18__XXLGRID_TOLDEE_8/DEFINITIVE_ALL_QUANTITITES_FROM_SCELPHONO_OUTPUT/RAW_DATA_for_QHA/Calcite_II_SG_14/preparation/to_post/to_post_2/implementation_check_final_F_files/Application_to_all_calcite_II_SG_14/Result_of_QHA_step_script/Calcite_I_SG_167/9_volumes_CII_and_11_volumes_C_I/CI_SG_167_estable_scelphono_outputs_TOLDEE_10/RAW_DATA_for_QHA_TOLDEE_10/doing_H_PTsinPV`
+
+copied here with the name: `QHA_step_and_H_PTsinPV.py`
+
+
+The file `QHA_step.py` on:
+
+`/home/david/Trabajo/structures/Calcite_I_and_II/PBE-D3__SHRINK_8_8__bipolar_18_18__TOLINTEG_8_18__XXLGRID_TOLDEE_8/DEFINITIVE_ALL_QUANTITITES_FROM_SCELPHONO_OUTPUT/RAW_DATA_for_QHA/Calcite_II_SG_14/preparation/to_post/to_post_2/implementation_check_final_F_files/Application_to_all_calcite_II_SG_14/Result_of_QHA_step_script/Calcite_I_SG_167/9_volumes_CII_and_11_volumes_C_I/CI_SG_167_estable_scelphono_outputs_TOLDEE_10/RAW_DATA_for_QHA_TOLDEE_10`
+
+copied here with the name `QHA_step.py`.
+
+
